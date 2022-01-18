@@ -4,16 +4,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Install dependencies
 
-npm install
+run npm install
 
 ## Run Angular server (http://localhost:4200)
 
-ng serve
+run ng serve
 
 ## Run the JSON server (http://localhost:5000)
 
-npm run server
+run npm run server
 
 ## To build for production
 
-ng build
+run ng build
